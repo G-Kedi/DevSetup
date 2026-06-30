@@ -51,10 +51,10 @@ Le dossier **notes** contient différents mémos sur l'installation de l'environ
 
 ## Configuration Git
 
-Pour configurer Git avec votre identité :
+Pour configurer Git avec son identité :
 
 ```bash
-git config --global user.name "Gédéon KEDI KITOKO"
+git config --global user.name "votre nom"
 git config --global user.email "votre-adresse@email.com"
 ```
 
