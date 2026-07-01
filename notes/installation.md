@@ -7,6 +7,7 @@ Ce document résume les différentes étapes suivies pour préparer mon environn
 - Visual Studio Code
 - Git
 - Node.js (version LTS)
+- J'aussi installé nodemon de manière global dans mon ordinateur pour pouvoir l'utiliser n'importe où à partir de mon terminal
 
 ## Vérification des installations
 
@@ -17,6 +18,7 @@ git --version
 node --version
 npm --version
 code --version
+nodemon --version
 ```
 
 ## Pourquoi ces outils ?
