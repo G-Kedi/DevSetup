@@ -19,7 +19,7 @@ Les logiciels installés sur ma machine sont :
 - Visual Studio Code
 - Git
 - Node.js (version LTS)
-
+- nodemon
 ---
 
 ## Extensions Visual Studio Code
@@ -72,6 +72,13 @@ Ce dépôt constitue une référence personnelle. Il me permettra de retrouver r
 
 ---
 
+## cloner ce dépôt ?
+
+Pour cloner ce dépôt tapez la commande git suivante : 
+```bash
+git clone <url_du_repo>
+```
+---
 ## Auteur
 
 **Gédéon KEDI KITOKO**
