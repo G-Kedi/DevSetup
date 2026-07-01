@@ -39,6 +39,7 @@ Pour améliorer mon confort de développement, j'utilise notamment :
 DevSetup/
 ├── README.md
 ├── .gitignore
+├── .editorconfig 
 └── notes/
     ├── installation.md
     ├── commandes.md
